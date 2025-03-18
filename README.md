@@ -1,4 +1,4 @@
-<em> # Challenge Amigo Secreto  </em>
+# <em> Challenge Amigo Secreto  </em>
 
 ## :hammer:Funcionalidades del proyecto
 
@@ -6,15 +6,14 @@
 - `Mostrar la lista ingresada`: Muestra el orden segun ingreses cada nombre
 - `Genera el amigo secreto`: Muestra el amigo secreto al hacer clic en el boton
 
-\## 📁 Acceso al proyecto
+## 📁 Acceso al proyecto
 
 **Debes clonar el proyecto y abrirlo con un editor de texto, por ejemplo VSCode**
 
-\## 🛠️ Abre y ejecuta el proyecto
+## 🛠️ Abre y ejecuta el proyecto
 
 - Para abrirlo puedes ejecutar o hacer doble clic en el archivo index.html en el directorio donde se haya descargado.
 
 ## Autores
 
-| [<img src="" width=115 alt='Foto no agregada'><br><sub>Edwin Figueroa</sub>](https://github.com/edwinf2)
-| :---: | :---: | :---: |
+### Autor: <sub>Edwin Figueroa</sub>(https://github.com/edwinf2)
