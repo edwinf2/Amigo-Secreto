@@ -16,4 +16,4 @@
 
 ## Autores
 
-### Autor: <sub>Edwin Figueroa</sub>(https://github.com/edwinf2)
+### Autor: Edwin Figueroa - Git: `https://github.com/edwinf2`
